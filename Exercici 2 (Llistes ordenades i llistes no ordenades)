@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<body>
+  <table style="width:500px">
+    <tr>
+      <td>
+        <h2> Llistes Ordenades </h2>
+        <ul>
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ul>
+        <ul style="list-style-type:circle">
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ul>
+        <ul style="list-style-type:square">
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ul>
+      </td>
+      <td>
+        <h2>Llistes no Ordenades </h2>
+        <ol type="a", start="4">
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ol>
+        <ol start="100", reversed>
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ol>
+        <ol type="i", start="999">
+          <li> Element 1 </li>
+          <li> Element 2 </li>
+          <li> Element 3 </li>
+          <li> Element 4 </li>
+        </ol>
+      </td>
+    </tr>
+</body>
