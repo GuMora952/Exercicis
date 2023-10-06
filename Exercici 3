@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+  <style>
+  
+  table, th, td {
+  border: 1px solid black;
+  }
+
+  td {
+    padding:5px
+  }
+
+  table.center {
+    vertical-align: middle;
+  }
+  </style>
+</head>
+<body>
+  <table width="1400">
+    <tr>
+      <td>HTTP</td>
+      <td>HTML</td>
+      <td>URL</td>
+      <td>TCP/IP</td>
+      <td>Internet</td>
+      <td>W3C</td>
+      <td>Mozilla Foundation</td>
+    </tr>
+    <tr>
+      <td>El protocol de transferència d'hipertext o HTTP (HyperText Transfer Protocol) estableix el protocol per a l'intercanvi de documents d'hipertext i multimèdia al web.</td>
+      <td>HTML (acrònim d’Hyper Text Markup Language, en català, "llenguatge de marcatge d'hipertext"), és un llenguatge dissenyat per estructurar textos i relacionar-los en forma d'hipertext.</td>
+      <td>Cadena de caràcters que informa al navegador de la màquina on és el recurs a què fa referència,</td>
+      <td>TCP/IP és un conjunt de protocols estàndard de la capa de transport TCP i de la capa de xarxa IP, en els quals es basen les comunicacions a internet i que cobreixen els diversos nivells del model OSI.</td>
+      <td>Internet és una xarxa pública i global d'ordinadors que estan connectats entre si per mitjà del protocol d'Internet (Internet Protocol) i que comuniquen mitjançant la commutació de paquets.</td>
+      <td>El World Wide Web Consortium (W3C) és un consorci internacional que treballa per a desenvolupar i promocionar estàndards per al World Wide Web.</td>
+      <td>La Fundació Mozilla és una organització sense ànim de lucre dedicada a la creació de programari lliure.</td>
+    </tr>
+  </table>
+</body>
